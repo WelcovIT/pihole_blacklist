@@ -35,5 +35,5 @@
 127.0.0.1   pr.ybp.yahoo.com
 127.0.0.1   shim.btrll.com
 127.0.0.1   us.af.beap.bc.yahoo.com
-127.0.0.1   vcdn.adxs.com
-127.0.0.1   yrtas.btrll.com
+127.0.0.1		vcdn.adxs.com
+127.0.0.1		yrtas.btrll.com
