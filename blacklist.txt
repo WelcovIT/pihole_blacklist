@@ -1,0 +1,27 @@
+# WelcovIT pihole_blacklist
+#
+# Created: 6-29-17
+# Updated: 6-29-17
+#
+127.0.0.1		acdn.adnxs.com
+127.0.0.1		secure.adnxs.com
+127.0.0.1		us-east-1.dc.ads.linkedin.com
+127.0.0.1		ads-us.pictela.net
+127.0.0.1		ads.pictela.net
+127.0.0.1		aka-cdn-ns.adtechus.com
+127.0.0.1		an.pxl.ace.advertising.com
+127.0.0.1		apx.moatads.com
+127.0.0.1		at.atwola.com
+127.0.0.1		beap-bc.yahoo.com
+127.0.0.1		cdn.at.atwola.com
+127.0.0.1		cdn.taboola.com
+127.0.0.1		cdn.taboolasyndication.com
+127.0.0.1		dc.ads.linkedin.com
+127.0.0.1		delivery.swid.switchadhub.com
+127.0.0.1		images.taboola.com
+127.0.0.1		o.aolcdn.com
+127.0.0.1		pixel.advertising.com
+127.0.0.1		pixel.tapad.com
+127.0.0.1		trc.callbacks.recommendations
+127.0.0.1		trc.taboola.com
+127.0.0.1		us.event.cmp.advertising.com
