@@ -1,7 +1,8 @@
-# WelcovIT pihole_blacklist
+#
+# Welcov IT Pi-hole blacklist
 #
 # Created: 6-29-17
-# Updated: 6-29-17
+# Updated: 7-7-17
 #
 127.0.0.1		acdn.adnxs.com
 127.0.0.1		secure.adnxs.com
@@ -22,10 +23,9 @@
 127.0.0.1		o.aolcdn.com
 127.0.0.1		pixel.advertising.com
 127.0.0.1		pixel.tapad.com
-127.0.0.1		trc.callbacks.recommendations
 127.0.0.1		trc.taboola.com
 127.0.0.1		us.event.cmp.advertising.com
-127.0.0.1		acdn.adnxs.com
+
 127.0.0.1		adclick.g.doubleclick.net
 127.0.0.1		beap.gemini.yahoo.com
 127.0.0.1		clk.tradedoubler.com
@@ -37,3 +37,11 @@
 127.0.0.1		us.af.beap.bc.yahoo.com
 127.0.0.1		vcdn.adxs.com
 127.0.0.1		yrtas.btrll.com
+
+127.0.0.1		api.c.avazunativeads.com
+127.0.0.1		s.yimg.com
+127.0.0.1		api.taboola.com
+127.0.0.1		adserver.pandora.com
+127.0.0.1		adserverapi.psafe.com
+127.0.0.1		api.c.avazunativeads.com
+127.0.0.1		usc.adserver.snapads.com
