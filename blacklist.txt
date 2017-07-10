@@ -2,7 +2,7 @@
 # Welcov IT Pi-hole blacklist
 #
 # Created: 6-29-17
-# Updated: 7-7-17
+# Updated: 7-10-17
 #
 127.0.0.1		acdn.adnxs.com
 127.0.0.1		secure.adnxs.com
@@ -45,3 +45,60 @@
 127.0.0.1		adserverapi.psafe.com
 127.0.0.1		api.c.avazunativeads.com
 127.0.0.1		usc.adserver.snapads.com
+
+127.0.0.1		031kr-u1ypk.ads.tremorhub.com
+127.0.0.1		77hln.ads.tremorhub.com
+127.0.0.1		9c9vu-dk4vc.ads.tremorhub.com
+127.0.0.1		ads-chunks.prod.ihrhls.com
+127.0.0.1		ads.yieldmo.com
+127.0.0.1		adtech.nflximg.net
+127.0.0.1		geo.moatads.com
+127.0.0.1		kkqvf.ads.tremorhub.com
+127.0.0.1		lax1-ib.adnxs.com
+127.0.0.1		pixel.advertising.net
+127.0.0.1		secure-nym.adnxs.com
+127.0.0.1		static.adtrolley.com
+127.0.0.1		tags.adtrolley.com
+127.0.0.1		tracking.sv1.monarchads.com
+127.0.0.1		tracking.sv2.monarchads.com
+127.0.0.1		tracking.sv3.monarchads.com
+127.0.0.1		tracking.sv4.monarchads.com
+127.0.0.1		tracking.sv5.monarchads.com
+127.0.0.1		tracking.sv6.monarchads.com
+127.0.0.1		tracking.sv7.monarchads.com
+127.0.0.1		tracking.sv8.monarchads.com
+127.0.0.1		tracking.sv9.monarchads.com
+127.0.0.1		tracking.sv10.monarchads.com
+127.0.0.1		tracking.sv11.monarchads.com
+127.0.0.1		tracking.sv12.monarchads.com
+127.0.0.1		tracking.sv13.monarchads.com
+127.0.0.1		tracking.sv14.monarchads.com
+127.0.0.1		tracking.sv15.monarchads.com
+127.0.0.1		tracking.sv16.monarchads.com
+127.0.0.1		tracking.sv17.monarchads.com
+127.0.0.1		tracking.sv18.monarchads.com
+127.0.0.1		tracking.sv19.monarchads.com
+127.0.0.1		tracking.sv20.monarchads.com
+127.0.0.1		tracking.sv21.monarchads.com
+127.0.0.1		tracking.sv22.monarchads.com
+127.0.0.1		tracking.sv23.monarchads.com
+127.0.0.1		tracking.sv24.monarchads.com
+127.0.0.1		tracking.sv25.monarchads.com
+127.0.0.1		tracking.sv26.monarchads.com
+127.0.0.1		tracking.sv27.monarchads.com
+127.0.0.1		tracking.sv28.monarchads.com
+127.0.0.1		tracking.sv29.monarchads.com
+127.0.0.1		tracking.sv30.monarchads.com
+127.0.0.1		tracking.sv31.monarchads.com
+127.0.0.1		tracking.sv32.monarchads.com
+127.0.0.1		us.af.beap.bc.yahoo.com
+127.0.0.1		vcdn.adnxs.com
+127.0.0.1		video.monarchads.com
+127.0.0.1		4735610.fls.doubleclick.net
+127.0.0.1		media.adknit.com
+127.0.0.1		usc.adserver.snapads.com
+127.0.0.1		adserver.pandora.com
+127.0.0.1		adserverapi.psafe.com
+127.0.0.1		api.c.avazunativeads.com
+127.0.0.1		banner.vrtzads.com
+127.0.0.1		zc.adswizz.com
