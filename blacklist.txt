@@ -2,7 +2,7 @@
 # Welcov IT Pi-hole blacklist
 #
 # Created: 6-29-17
-# Updated: 7-10-17
+# Updated: 7-25-17
 #
 127.0.0.1		acdn.adnxs.com
 127.0.0.1		secure.adnxs.com
@@ -102,3 +102,31 @@
 127.0.0.1		api.c.avazunativeads.com
 127.0.0.1		banner.vrtzads.com
 127.0.0.1		zc.adswizz.com
+
+127.0.0.1		adimages.startribune.com
+127.0.0.1		ads.yieldmo.com
+127.0.0.1		adserver.pandora.com
+127.0.0.1		adt.pxl.ace.advertising.com
+127.0.0.1		advertise.foxnews.com
+127.0.0.1		advertising.nypost.com
+127.0.0.1		an-imp.bid.ace.advertising.com
+127.0.0.1		cdn.adaptv.advertising.com
+127.0.0.1		cdn.adsafeprotected.com
+127.0.0.1		dc.ads.linkedin.com
+127.0.0.1		geo.moatads.com
+127.0.0.1		ibn.adnxs.com
+127.0.0.1		nym1-ib.adnxs.com
+127.0.0.1		pixel.addoox.net
+127.0.0.1		px.adnxsid.com
+127.0.0.1		startribune.adperfect.com
+127.0.0.1		us-east-1.dc.ads.linkedin.com
+127.0.0.1		yt.moatads.com
+127.0.0.1		yts.moatads.com
+127.0.0.1		ad-e1.media6degrees.com
+127.0.0.1		ad-e2.media6degrees.com
+127.0.0.1		ad-s1.media6degrees.com
+127.0.0.1		ad-s2.media6degrees.com
+127.0.0.1		lax1-ib.adnxs.com
+127.0.0.1		mb.moatads.com
+127.0.0.1		nym1-ib.adnxs.com
+
