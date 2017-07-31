@@ -2,7 +2,7 @@
 # Welcov IT Pi-hole blacklist
 #
 # Created: 6-29-17
-# Updated: 7-25-17
+# Updated: 7-31-17
 #
 127.0.0.1		acdn.adnxs.com
 127.0.0.1		secure.adnxs.com
@@ -130,3 +130,13 @@
 127.0.0.1		mb.moatads.com
 127.0.0.1		nym1-ib.adnxs.com
 
+127.0.0.1		taboola.com
+127.0.0.1		casalemedia.com
+127.0.0.1		advertising.amazon.com
+127.0.0.1		ad.flipboard.com
+127.0.0.1		adworks.att.com
+127.0.0.1		browser-update.org
+127.0.0.1		candycrushsoda.king.com
+127.0.0.1		pics.pornmarathon.com
+127.0.0.1		search.myway.com
+127.0.0.1		wd.adcolony.com
