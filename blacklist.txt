@@ -18,8 +18,11 @@
 127.0.0.1		ad.bidfluence.com
 127.0.0.1		ad.flipboard.com
 127.0.0.1		ad.visiblemeasures.com
+127.0.0.1		adc3-launch.adcolony.com
 127.0.0.1		adclick.g.doubleclick.net
+127.0.0.1		adcolony.com
 127.0.0.1		adeventtracker.spotify.com
+127.0.0.1		adhigh.net
 127.0.0.1		adimages.startribune.com
 127.0.0.1		adlooxtracking.com
 127.0.0.1		ads-chunks.prod.ihrhls.com
@@ -27,15 +30,19 @@
 127.0.0.1		ads-us.pictela.net
 127.0.0.1		ads.aerserv.com
 127.0.0.1		ads.altitude-arena.com
+127.0.0.1		ads.everesttech.net
 127.0.0.1		ads.freewheel.tv
 127.0.0.1		ads.pictela.net
+127.0.0.1		ads.rentbits.com
 127.0.0.1		ads.revjet.com
+127.0.0.1		ads.tremorhub.com
 127.0.0.1		ads.vertmarkets.com
 127.0.0.1		ads.yieldmo.com
 127.0.0.1		ads37.ssp.babanetwork.net
 127.0.0.1		adsdk.vrvm.com
 127.0.0.1		adserver.pandora.com
 127.0.0.1		adserverapi.psafe.com
+127.0.0.1		adswizz.com
 127.0.0.1		adt.pxl.ace.advertising.com
 127.0.0.1		adtech.nflximg.net
 127.0.0.1		advertise.foxnews.com
@@ -76,6 +83,7 @@
 127.0.0.1		clearchannel.deliveryengine.adswizz.com
 127.0.0.1		clk.tradedoubler.com
 127.0.0.1		cm.adsafety.net
+127.0.0.1		config.unityads.unity3d.com
 127.0.0.1		conversions.adaptv.advertising.com
 127.0.0.1		csc.beap.bc.yahoo.com
 127.0.0.1		csync.smartadserver.com
@@ -86,6 +94,10 @@
 127.0.0.1		delivery.guardian.switchadhub.com
 127.0.0.1		delivery.swid.switchadhub.com
 127.0.0.1		deliveryengine.synchroscript.adswizz.com
+127.0.0.1		edge.adcolony.top.comcast.net
+127.0.0.1		events3.adcolony.com
+127.0.0.1		events3alt.adcolony.com
+127.0.0.1		everestads.net
 127.0.0.1		geo.moatads.com
 127.0.0.1		ibn.adnxs.com
 127.0.0.1		images.taboola.com
@@ -120,6 +132,7 @@
 127.0.0.1		secure-nym.adnxs.com
 127.0.0.1		secure.adnxs.com
 127.0.0.1		sejs.moatads.com
+127.0.0.1		serve.uberads.com
 127.0.0.1		shim.btrll.com
 127.0.0.1		sp.adbrn.com
 127.0.0.1		startribune.adperfect.com
@@ -159,6 +172,7 @@
 127.0.0.1		tracking.sv8.monarchads.com
 127.0.0.1		tracking.sv9.monarchads.com
 127.0.0.1		trc.taboola.com
+127.0.0.1		um2.eqads.com
 127.0.0.1		us-east-1.dc.ads.linkedin.com
 127.0.0.1		us-west-2.dc.ads.linkedin.com
 127.0.0.1		us.af.beap.bc.yahoo.com
@@ -169,6 +183,7 @@
 127.0.0.1		video-ads.rubiconproject.com
 127.0.0.1		video.monarchads.com
 127.0.0.1		videoads.iheart.com
+127.0.0.1		vox.pxl.ace.advertising.com
 127.0.0.1		wd.adcolony.com
 127.0.0.1		ww2675.smartadserver.com
 127.0.0.1		www.imgurads.com
