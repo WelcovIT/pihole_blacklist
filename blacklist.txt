@@ -1,11 +1,13 @@
 #
 # Created: 6-29-17
-# Updated: 8-14-17
+# Updated: 8-18-17
 # Welcov IT PiHole blacklist
 ##
+127.0.0.1		031kr-0lvw3.ads.tremorhub.com
 127.0.0.1		031kr-u1ypk.ads.tremorhub.com
 127.0.0.1		4735610.fls.doubleclick.net
 127.0.0.1		77hln.ads.tremorhub.com
+127.0.0.1		8mcxp-akcsy.ads.tremorhub.com
 127.0.0.1		9c9vu-dk4vc.ads.tremorhub.com
 127.0.0.1		a.mnet-ad.net
 127.0.0.1		acdn.adnxs.com
@@ -15,29 +17,42 @@
 127.0.0.1		ad-e2.media6degrees.com
 127.0.0.1		ad-s1.media6degrees.com
 127.0.0.1		ad-s2.media6degrees.com
+127.0.0.1		ad.adsocialweb.com
 127.0.0.1		ad.bidfluence.com
 127.0.0.1		ad.flipboard.com
 127.0.0.1		ad.visiblemeasures.com
+127.0.0.1		ad4.lionhaus.media
+127.0.0.1		adc3-assets.adcolony.com
 127.0.0.1		adc3-launch.adcolony.com
 127.0.0.1		adclick.g.doubleclick.net
 127.0.0.1		adcolony.com
 127.0.0.1		adeventtracker.spotify.com
 127.0.0.1		adhigh.net
 127.0.0.1		adimages.startribune.com
+127.0.0.1		adinfo.aol.com
 127.0.0.1		adlooxtracking.com
+127.0.0.1		admapper.cdk.com
 127.0.0.1		ads-chunks.prod.ihrhls.com
+127.0.0.1		ads-east-colo.adsymptotic.com
 127.0.0.1		ads-pd.nbcuni.com
+127.0.0.1		ads-sg-aws.adsymptotic.com
 127.0.0.1		ads-us.pictela.net
+127.0.0.1		ads-west-colo.adsymptotic.com
 127.0.0.1		ads.aerserv.com
 127.0.0.1		ads.altitude-arena.com
+127.0.0.1		ads.avocet.io
+127.0.0.1		ads.blbrd.co
 127.0.0.1		ads.everesttech.net
 127.0.0.1		ads.freewheel.tv
+127.0.0.1		ads.hrhero.com
 127.0.0.1		ads.pictela.net
 127.0.0.1		ads.rentbits.com
 127.0.0.1		ads.revjet.com
 127.0.0.1		ads.tremorhub.com
+127.0.0.1		ads.usps.com
 127.0.0.1		ads.vertmarkets.com
 127.0.0.1		ads.yieldmo.com
+127.0.0.1		ads30.adcolony.com
 127.0.0.1		ads37.ssp.babanetwork.net
 127.0.0.1		adsdk.vrvm.com
 127.0.0.1		adserver.pandora.com
@@ -66,8 +81,10 @@
 127.0.0.1		beap-bc.yahoo.com
 127.0.0.1		beap.gemini.yahoo.com
 127.0.0.1		bidswitch.rtb.adx1.com
+127.0.0.1		bm.adentifi.com
 127.0.0.1		browser-update.org
 127.0.0.1		brx.pxl.ace.advertising.com
+127.0.0.1		c.adsymptotic.com
 127.0.0.1		c.deployads.com
 127.0.0.1		candycrushsoda.king.com
 127.0.0.1		casalemedia.com
@@ -84,11 +101,17 @@
 127.0.0.1		clk.tradedoubler.com
 127.0.0.1		cm.adsafety.net
 127.0.0.1		config.unityads.unity3d.com
+127.0.0.1		content.adsocialweb.com
 127.0.0.1		conversions.adaptv.advertising.com
 127.0.0.1		csc.beap.bc.yahoo.com
 127.0.0.1		csync.smartadserver.com
+127.0.0.1		dailyads.michigan.com
 127.0.0.1		datam01.adlooxtracking.com
+127.0.0.1		datam05.adlooxtracking.com
 127.0.0.1		datam07.adlooxtracking.com
+127.0.0.1		datam14.adlooxtracking.com
+127.0.0.1		datam18.adlooxtracking.com
+127.0.0.1		datam20.adlooxtracking.com
 127.0.0.1		dc.ads.linkedin.com
 127.0.0.1		dc.pxl.ace.advertising.com
 127.0.0.1		delivery.guardian.switchadhub.com
@@ -98,10 +121,14 @@
 127.0.0.1		events3.adcolony.com
 127.0.0.1		events3alt.adcolony.com
 127.0.0.1		everestads.net
+127.0.0.1		fc-eu.adsymptotic.com
 127.0.0.1		geo.moatads.com
+127.0.0.1		html5.adsrvr.org
+127.0.0.1		hx.ads.placeiq.com
 127.0.0.1		ibn.adnxs.com
 127.0.0.1		images.taboola.com
 127.0.0.1		imp2.ads.linkedin.com
+127.0.0.1		jzwjq.ads.tremorhub.com
 127.0.0.1		kkqvf.ads.tremorhub.com
 127.0.0.1		lax1-ib.adnxs.com
 127.0.0.1		log.adaptv.advertising.com
@@ -115,6 +142,7 @@
 127.0.0.1		nym1-ib.adnxs.com
 127.0.0.1		o.aolcdn.com
 127.0.0.1		pics.pornmarathon.com
+127.0.0.1		pixel.adacado.com
 127.0.0.1		pixel.addoox.net
 127.0.0.1		pixel.advertising.com
 127.0.0.1		pixel.advertising.net
@@ -127,6 +155,9 @@
 127.0.0.1		pxl.ace.advertising.com
 127.0.0.1		rex.adequant.com
 127.0.0.1		rm.pxl.ace.advertising.com
+127.0.0.1		rm4.adtilt.com
+127.0.0.1		rtb.adentifi.com
+127.0.0.1		rv.grxads.com
 127.0.0.1		search.myway.com
 127.0.0.1		searchads.msn.net
 127.0.0.1		secure-nym.adnxs.com
@@ -172,6 +203,8 @@
 127.0.0.1		tracking.sv8.monarchads.com
 127.0.0.1		tracking.sv9.monarchads.com
 127.0.0.1		trc.taboola.com
+127.0.0.1		triplelift.pxl.ace.advertising.com
+127.0.0.1		triplelift.rtb.adx1.com
 127.0.0.1		um2.eqads.com
 127.0.0.1		us-east-1.dc.ads.linkedin.com
 127.0.0.1		us-west-2.dc.ads.linkedin.com
@@ -185,7 +218,9 @@
 127.0.0.1		videoads.iheart.com
 127.0.0.1		vox.pxl.ace.advertising.com
 127.0.0.1		wd.adcolony.com
+127.0.0.1		weeklyad.michaels.com
 127.0.0.1		ww2675.smartadserver.com
+127.0.0.1		www.freeadgo.com
 127.0.0.1		www.imgurads.com
 127.0.0.1		www.kuaygqohsbeg.com
 127.0.0.1		www.yljrefexjymy.com
