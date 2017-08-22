@@ -1,6 +1,6 @@
 #
 # Created: 6-29-17
-# Updated: 8-18-17
+# Updated: 8-22-17
 # Welcov IT PiHole blacklist
 ##
 127.0.0.1		031kr-0lvw3.ads.tremorhub.com
@@ -9,6 +9,7 @@
 127.0.0.1		77hln.ads.tremorhub.com
 127.0.0.1		8mcxp-akcsy.ads.tremorhub.com
 127.0.0.1		9c9vu-dk4vc.ads.tremorhub.com
+127.0.0.1		9c9vu-kxc7f.ads.tremorhub.com
 127.0.0.1		a.mnet-ad.net
 127.0.0.1		acdn.adnxs.com
 127.0.0.1		ace.advertising.com
@@ -55,6 +56,7 @@
 127.0.0.1		ads30.adcolony.com
 127.0.0.1		ads37.ssp.babanetwork.net
 127.0.0.1		adsdk.vrvm.com
+127.0.0.1		adserve.2adpro.com
 127.0.0.1		adserver.pandora.com
 127.0.0.1		adserverapi.psafe.com
 127.0.0.1		adswizz.com
@@ -78,6 +80,7 @@
 127.0.0.1		at.atwola.com
 127.0.0.1		b.measuread.com
 127.0.0.1		banner.vrtzads.com
+127.0.0.1		base-cdn.admarvel.com
 127.0.0.1		beap-bc.yahoo.com
 127.0.0.1		beap.gemini.yahoo.com
 127.0.0.1		bidswitch.rtb.adx1.com
@@ -106,6 +109,7 @@
 127.0.0.1		csc.beap.bc.yahoo.com
 127.0.0.1		csync.smartadserver.com
 127.0.0.1		dailyads.michigan.com
+127.0.0.1		data.ad-score.com
 127.0.0.1		datam01.adlooxtracking.com
 127.0.0.1		datam05.adlooxtracking.com
 127.0.0.1		datam07.adlooxtracking.com
@@ -128,13 +132,24 @@
 127.0.0.1		ibn.adnxs.com
 127.0.0.1		images.taboola.com
 127.0.0.1		imp2.ads.linkedin.com
+127.0.0.1		ivid-cdn.adhigh.net
+127.0.0.1		ivid-f11-us-va.adhigh.net
+127.0.0.1		ivid-f16-us-va.adhigh.net
+127.0.0.1		ivid-f17-us-va.adhigh.net
+127.0.0.1		ivid-f18-us-va.adhigh.net
+127.0.0.1		ivid-f20-us-va.adhigh.net
+127.0.0.1		ivid-f5-us-va.adhigh.net
+127.0.0.1		ivid-f6-us-va.adhigh.net
 127.0.0.1		jzwjq.ads.tremorhub.com
+127.0.0.1		kansascitystar.adperfect.com
 127.0.0.1		kkqvf.ads.tremorhub.com
 127.0.0.1		lax1-ib.adnxs.com
+127.0.0.1		localad.homedepot.com
 127.0.0.1		log.adaptv.advertising.com
 127.0.0.1		match.adsby.bidtheatre.com
 127.0.0.1		mb.moatads.com
 127.0.0.1		media.adknit.com
+127.0.0.1		miamiherald.adperfect.com
 127.0.0.1		moat.pxl.ace.advertising.com
 127.0.0.1		mobile.adsafeprotected.com
 127.0.0.1		n1.smartyads.com
@@ -156,7 +171,9 @@
 127.0.0.1		rex.adequant.com
 127.0.0.1		rm.pxl.ace.advertising.com
 127.0.0.1		rm4.adtilt.com
+127.0.0.1		rtb-px.content-ad.net
 127.0.0.1		rtb.adentifi.com
+127.0.0.1		rub.pxl.ace.advertising.com
 127.0.0.1		rv.grxads.com
 127.0.0.1		search.myway.com
 127.0.0.1		searchads.msn.net
@@ -205,6 +222,7 @@
 127.0.0.1		trc.taboola.com
 127.0.0.1		triplelift.pxl.ace.advertising.com
 127.0.0.1		triplelift.rtb.adx1.com
+127.0.0.1		tv8k8-lj8fo.ads.tremorhub.com
 127.0.0.1		um2.eqads.com
 127.0.0.1		us-east-1.dc.ads.linkedin.com
 127.0.0.1		us-west-2.dc.ads.linkedin.com
@@ -223,6 +241,7 @@
 127.0.0.1		www.freeadgo.com
 127.0.0.1		www.imgurads.com
 127.0.0.1		www.kuaygqohsbeg.com
+127.0.0.1		www.miamiheraldadvertising.com
 127.0.0.1		www.yljrefexjymy.com
 127.0.0.1		yrtas.btrll.com
 127.0.0.1		yt.moatads.com
