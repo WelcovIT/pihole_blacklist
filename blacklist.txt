@@ -1,9 +1,11 @@
 #
 # Created: 6-29-17
-# Updated: 8-22-17
+# Updated: 8-29-17
 # Welcov IT PiHole blacklist
 ##
 127.0.0.1		031kr-0lvw3.ads.tremorhub.com
+127.0.0.1		031kr-1h8ol.ads.tremorhub.com
+127.0.0.1		031kr-fz9vs.ads.tremorhub.com
 127.0.0.1		031kr-u1ypk.ads.tremorhub.com
 127.0.0.1		4735610.fls.doubleclick.net
 127.0.0.1		77hln.ads.tremorhub.com
@@ -21,6 +23,7 @@
 127.0.0.1		ad.adsocialweb.com
 127.0.0.1		ad.bidfluence.com
 127.0.0.1		ad.flipboard.com
+127.0.0.1		ad.mydomain.com
 127.0.0.1		ad.visiblemeasures.com
 127.0.0.1		ad4.lionhaus.media
 127.0.0.1		adc3-assets.adcolony.com
@@ -58,7 +61,9 @@
 127.0.0.1		adsdk.vrvm.com
 127.0.0.1		adserve.2adpro.com
 127.0.0.1		adserver.pandora.com
+127.0.0.1		adserver.xpanama.net
 127.0.0.1		adserverapi.psafe.com
+127.0.0.1		adservice.tohsoft.com
 127.0.0.1		adswizz.com
 127.0.0.1		adt.pxl.ace.advertising.com
 127.0.0.1		adtech.nflximg.net
@@ -71,6 +76,7 @@
 127.0.0.1		adworks.att.com
 127.0.0.1		aka-cdn-ns.adtechus.com
 127.0.0.1		am.adlooxtracking.com
+127.0.0.1		ams-ads-cornerstone-creatives.s3.amazonaws.com
 127.0.0.1		an-imp.bid.ace.advertising.com
 127.0.0.1		an.pxl.ace.advertising.com
 127.0.0.1		api.am.bingads.microsoft.com
@@ -79,6 +85,7 @@
 127.0.0.1		apx.moatads.com
 127.0.0.1		at.atwola.com
 127.0.0.1		b.measuread.com
+127.0.0.1		baker-pubmatic.spotad.co
 127.0.0.1		banner.vrtzads.com
 127.0.0.1		base-cdn.admarvel.com
 127.0.0.1		beap-bc.yahoo.com
@@ -96,6 +103,7 @@
 127.0.0.1		cdn.adsafeprotected.com
 127.0.0.1		cdn.at.atwola.com
 127.0.0.1		cdn.oas-c18.adnxs.com
+127.0.0.1		cdn.switchadhub.com
 127.0.0.1		cdn.taboola.com
 127.0.0.1		cdn.taboolasyndication.com
 127.0.0.1		cdn1-creatives.adswizz.com
@@ -126,12 +134,16 @@
 127.0.0.1		events3alt.adcolony.com
 127.0.0.1		everestads.net
 127.0.0.1		fc-eu.adsymptotic.com
+127.0.0.1		fwapi.adsafeprotected.com
 127.0.0.1		geo.moatads.com
+127.0.0.1		gsn.chameleon.ad
 127.0.0.1		html5.adsrvr.org
 127.0.0.1		hx.ads.placeiq.com
 127.0.0.1		ibn.adnxs.com
+127.0.0.1		imageadswest.azurewebsites.net
 127.0.0.1		images.taboola.com
 127.0.0.1		imp2.ads.linkedin.com
+127.0.0.1		instaad.net
 127.0.0.1		ivid-cdn.adhigh.net
 127.0.0.1		ivid-f11-us-va.adhigh.net
 127.0.0.1		ivid-f16-us-va.adhigh.net
@@ -153,9 +165,12 @@
 127.0.0.1		moat.pxl.ace.advertising.com
 127.0.0.1		mobile.adsafeprotected.com
 127.0.0.1		n1.smartyads.com
+127.0.0.1		newspaperads.miami.com
+127.0.0.1		newspaperads.twincities.com
 127.0.0.1		nextadvisor.com
 127.0.0.1		nym1-ib.adnxs.com
 127.0.0.1		o.aolcdn.com
+127.0.0.1		ox.pxl.ace.advertising.com
 127.0.0.1		pics.pornmarathon.com
 127.0.0.1		pixel.adacado.com
 127.0.0.1		pixel.addoox.net
@@ -164,6 +179,7 @@
 127.0.0.1		pixel.tapad.com
 127.0.0.1		pr.ybp.yahoo.com
 127.0.0.1		prebid.adnxs.com
+127.0.0.1		premium.adserverplus.com
 127.0.0.1		pub.pxl.ace.advertising.com
 127.0.0.1		px.adcloudiq.com
 127.0.0.1		px.adnxsid.com
@@ -185,6 +201,7 @@
 127.0.0.1		sp.adbrn.com
 127.0.0.1		startribune.adperfect.com
 127.0.0.1		static.adtrolley.com
+127.0.0.1		strib-advertising.s3.amazonaws.com
 127.0.0.1		taboola.com
 127.0.0.1		tags.adtrolley.com
 127.0.0.1		tracking.sv1.monarchads.com
@@ -228,7 +245,9 @@
 127.0.0.1		us-west-2.dc.ads.linkedin.com
 127.0.0.1		us.af.beap.bc.yahoo.com
 127.0.0.1		us.event.cmp.advertising.com
+127.0.0.1		usasync01.admantx.com
 127.0.0.1		usc.adserver.snapads.com
+127.0.0.1		v.adsrvr.org
 127.0.0.1		vcdn.adnxs.com
 127.0.0.1		vcdn.adxs.com
 127.0.0.1		video-ads.rubiconproject.com
@@ -242,6 +261,7 @@
 127.0.0.1		www.imgurads.com
 127.0.0.1		www.kuaygqohsbeg.com
 127.0.0.1		www.miamiheraldadvertising.com
+127.0.0.1		www.nbcudigitaladops.com
 127.0.0.1		www.yljrefexjymy.com
 127.0.0.1		yrtas.btrll.com
 127.0.0.1		yt.moatads.com
