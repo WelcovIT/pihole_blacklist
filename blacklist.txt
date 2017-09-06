@@ -1,6 +1,6 @@
 #
 # Created: 6-29-17
-# Updated: 9-1-17
+# Updated: 9-6-17
 # Welcov IT PiHole blacklist
 ##
 127.0.0.1		031kr-0lvw3.ads.tremorhub.com
@@ -21,8 +21,12 @@
 127.0.0.1		ad-s1.media6degrees.com
 127.0.0.1		ad-s2.media6degrees.com
 127.0.0.1		ad.adsocialweb.com
+127.0.0.1		ad.apsalar.com
 127.0.0.1		ad.bidfluence.com
+127.0.0.1		ad.cc.webmd.com
 127.0.0.1		ad.flipboard.com
+127.0.0.1		ad.mediabong.net
+127.0.0.1		ad.monetate.net
 127.0.0.1		ad.mydomain.com
 127.0.0.1		ad.visiblemeasures.com
 127.0.0.1		ad4.lionhaus.media
@@ -61,6 +65,7 @@
 127.0.0.1		ads37.ssp.babanetwork.net
 127.0.0.1		adsdk.vrvm.com
 127.0.0.1		adserve.2adpro.com
+127.0.0.1		adserver.intentiq.com
 127.0.0.1		adserver.pandora.com
 127.0.0.1		adserver.xpanama.net
 127.0.0.1		adserverapi.psafe.com
@@ -68,6 +73,7 @@
 127.0.0.1		adswizz.com
 127.0.0.1		adt.pxl.ace.advertising.com
 127.0.0.1		adtech.nflximg.net
+127.0.0.1		adtheorent107077183660.s.moatpixel.com
 127.0.0.1		advertise.foxnews.com
 127.0.0.1		advertise.iheart.com
 127.0.0.1		advertisers.com.au
@@ -201,6 +207,7 @@
 127.0.0.1		rtb.adentifi.com
 127.0.0.1		rub.pxl.ace.advertising.com
 127.0.0.1		rv.grxads.com
+127.0.0.1		s3adbucket.247sports.com
 127.0.0.1		search.myway.com
 127.0.0.1		searchads.msn.net
 127.0.0.1		secure-nym.adnxs.com
@@ -266,6 +273,7 @@
 127.0.0.1		vox.pxl.ace.advertising.com
 127.0.0.1		wd.adcolony.com
 127.0.0.1		weeklyad.michaels.com
+127.0.0.1		wlfanduel.adsrv.eacdn.com
 127.0.0.1		ww2675.smartadserver.com
 127.0.0.1		www.freeadgo.com
 127.0.0.1		www.imgurads.com
