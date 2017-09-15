@@ -1,6 +1,6 @@
 #
 # Created: 6-29-17
-# Updated: 9-6-17
+# Updated: 9-15-17
 # Welcov IT PiHole blacklist
 ##
 127.0.0.1		031kr-0lvw3.ads.tremorhub.com
@@ -13,6 +13,7 @@
 127.0.0.1		9c9vu-dk4vc.ads.tremorhub.com
 127.0.0.1		9c9vu-kxc7f.ads.tremorhub.com
 127.0.0.1		a.mnet-ad.net
+127.0.0.1		ab162803.adbutler-photon.com
 127.0.0.1		acdn.adnxs.com
 127.0.0.1		ace.advertising.com
 127.0.0.1		ad-cdn.brobible.com
@@ -20,6 +21,7 @@
 127.0.0.1		ad-e2.media6degrees.com
 127.0.0.1		ad-s1.media6degrees.com
 127.0.0.1		ad-s2.media6degrees.com
+127.0.0.1		ad-specs.adcentre.com.au
 127.0.0.1		ad.adsocialweb.com
 127.0.0.1		ad.apsalar.com
 127.0.0.1		ad.bidfluence.com
@@ -30,8 +32,10 @@
 127.0.0.1		ad.mydomain.com
 127.0.0.1		ad.visiblemeasures.com
 127.0.0.1		ad4.lionhaus.media
+127.0.0.1		adbroker.mp.dse.microsoft.com
 127.0.0.1		adc3-assets.adcolony.com
 127.0.0.1		adc3-launch.adcolony.com
+127.0.0.1		adchoices-icon-staging.truste.com
 127.0.0.1		adclick.g.doubleclick.net
 127.0.0.1		adcolony.com
 127.0.0.1		adeventtracker.spotify.com
@@ -40,6 +44,7 @@
 127.0.0.1		adinfo.aol.com
 127.0.0.1		adlooxtracking.com
 127.0.0.1		admapper.cdk.com
+127.0.0.1		ads-bidder-api.twitter.com
 127.0.0.1		ads-chunks.prod.ihrhls.com
 127.0.0.1		ads-east-colo.adsymptotic.com
 127.0.0.1		ads-pd.nbcuni.com
@@ -51,6 +56,7 @@
 127.0.0.1		ads.avocet.io
 127.0.0.1		ads.bitcoin.com
 127.0.0.1		ads.blbrd.co
+127.0.0.1		ads.digitalfirstmedia.com
 127.0.0.1		ads.everesttech.net
 127.0.0.1		ads.freewheel.tv
 127.0.0.1		ads.hrhero.com
@@ -152,6 +158,7 @@
 127.0.0.1		fwapi.adsafeprotected.com
 127.0.0.1		geo.moatads.com
 127.0.0.1		gsn.chameleon.ad
+127.0.0.1		hmpads.advertserve.com
 127.0.0.1		html5.adsrvr.org
 127.0.0.1		hx.ads.placeiq.com
 127.0.0.1		ibn.adnxs.com
@@ -281,6 +288,7 @@
 127.0.0.1		www.miamiheraldadvertising.com
 127.0.0.1		www.nbcudigitaladops.com
 127.0.0.1		www.yljrefexjymy.com
+127.0.0.1		y.one.impact-ad.jp
 127.0.0.1		yrtas.btrll.com
 127.0.0.1		yt.moatads.com
 127.0.0.1		yts.moatads.com
