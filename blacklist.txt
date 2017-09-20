@@ -1,17 +1,20 @@
 #
 # Created: 6-29-17
-# Updated: 9-15-17
+# Updated: 9-20-17
 # Welcov IT PiHole blacklist
 ##
 127.0.0.1		031kr-0lvw3.ads.tremorhub.com
 127.0.0.1		031kr-1h8ol.ads.tremorhub.com
 127.0.0.1		031kr-fz9vs.ads.tremorhub.com
+127.0.0.1		031kr-gb0mp.ads.tremorhub.com
+127.0.0.1		031kr-rwlpf.ads.tremorhub.com
 127.0.0.1		031kr-u1ypk.ads.tremorhub.com
 127.0.0.1		4735610.fls.doubleclick.net
 127.0.0.1		77hln.ads.tremorhub.com
 127.0.0.1		8mcxp-akcsy.ads.tremorhub.com
 127.0.0.1		9c9vu-dk4vc.ads.tremorhub.com
 127.0.0.1		9c9vu-kxc7f.ads.tremorhub.com
+127.0.0.1		a.adtechus.com
 127.0.0.1		a.mnet-ad.net
 127.0.0.1		ab162803.adbutler-photon.com
 127.0.0.1		acdn.adnxs.com
@@ -27,6 +30,7 @@
 127.0.0.1		ad.bidfluence.com
 127.0.0.1		ad.cc.webmd.com
 127.0.0.1		ad.flipboard.com
+127.0.0.1		ad.liveburst.com
 127.0.0.1		ad.mediabong.net
 127.0.0.1		ad.monetate.net
 127.0.0.1		ad.mydomain.com
@@ -44,6 +48,8 @@
 127.0.0.1		adinfo.aol.com
 127.0.0.1		adlooxtracking.com
 127.0.0.1		admapper.cdk.com
+127.0.0.1		adproxy.fyber.com
+127.0.0.1		adpushsdk.goforandroid.com
 127.0.0.1		ads-bidder-api.twitter.com
 127.0.0.1		ads-chunks.prod.ihrhls.com
 127.0.0.1		ads-east-colo.adsymptotic.com
@@ -53,6 +59,7 @@
 127.0.0.1		ads-west-colo.adsymptotic.com
 127.0.0.1		ads.aerserv.com
 127.0.0.1		ads.altitude-arena.com
+127.0.0.1		ads.api.vungle.com
 127.0.0.1		ads.avocet.io
 127.0.0.1		ads.bitcoin.com
 127.0.0.1		ads.blbrd.co
@@ -87,6 +94,7 @@
 127.0.0.1		advertising.bestbuy.com
 127.0.0.1		advertising.dailymail.com
 127.0.0.1		advertising.nypost.com
+127.0.0.1		advs2sonline.goforandroid.com
 127.0.0.1		adworks.att.com
 127.0.0.1		aka-cdn-ns.adtechus.com
 127.0.0.1		am.adlooxtracking.com
@@ -117,6 +125,7 @@
 127.0.0.1		cdn.adaptv.advertising.com
 127.0.0.1		cdn.adhigh.net
 127.0.0.1		cdn.adsafeprotected.com
+127.0.0.1		cdn.adserver.genesismediaus.com
 127.0.0.1		cdn.at.atwola.com
 127.0.0.1		cdn.oas-c18.adnxs.com
 127.0.0.1		cdn.switchadhub.com
@@ -125,6 +134,7 @@
 127.0.0.1		cdn1-creatives.adswizz.com
 127.0.0.1		cf.adxcel.com
 127.0.0.1		clearchannel.deliveryengine.adswizz.com
+127.0.0.1		clinkadtracking.com
 127.0.0.1		clk.tradedoubler.com
 127.0.0.1		cm.adsafety.net
 127.0.0.1		config.unityads.unity3d.com
@@ -133,6 +143,7 @@
 127.0.0.1		conversions.adaptv.advertising.com
 127.0.0.1		csc.beap.bc.yahoo.com
 127.0.0.1		csync.smartadserver.com
+127.0.0.1		d.runadtag.com
 127.0.0.1		dailyads.michigan.com
 127.0.0.1		data.ad-score.com
 127.0.0.1		datam01.adlooxtracking.com
@@ -154,7 +165,9 @@
 127.0.0.1		everestads.net
 127.0.0.1		f10-us-va.adhigh.net
 127.0.0.1		f13-us-va.adhigh.net
+127.0.0.1		fbstats.adotube.com
 127.0.0.1		fc-eu.adsymptotic.com
+127.0.0.1		flurry.adserver.prod.g04.yahoodns.net
 127.0.0.1		fwapi.adsafeprotected.com
 127.0.0.1		geo.moatads.com
 127.0.0.1		gsn.chameleon.ad
@@ -274,6 +287,7 @@
 127.0.0.1		v.adsrvr.org
 127.0.0.1		vcdn.adnxs.com
 127.0.0.1		vcdn.adxs.com
+127.0.0.1		vcm-media-secure.valueclick.akadns.net
 127.0.0.1		video-ads.rubiconproject.com
 127.0.0.1		video.monarchads.com
 127.0.0.1		videoads.iheart.com
