@@ -1,10 +1,11 @@
 #
 # Created: 6-29-17
-# Updated: 9-20-17
+# Updated: 9-26-17
 # Welcov IT PiHole blacklist
 ##
 127.0.0.1		031kr-0lvw3.ads.tremorhub.com
 127.0.0.1		031kr-1h8ol.ads.tremorhub.com
+127.0.0.1		031kr-5vhnm.ads.tremorhub.com
 127.0.0.1		031kr-fz9vs.ads.tremorhub.com
 127.0.0.1		031kr-gb0mp.ads.tremorhub.com
 127.0.0.1		031kr-rwlpf.ads.tremorhub.com
@@ -34,11 +35,13 @@
 127.0.0.1		ad.mediabong.net
 127.0.0.1		ad.monetate.net
 127.0.0.1		ad.mydomain.com
+127.0.0.1		ad.tagdelivery.com
 127.0.0.1		ad.visiblemeasures.com
 127.0.0.1		ad4.lionhaus.media
 127.0.0.1		adbroker.mp.dse.microsoft.com
 127.0.0.1		adc3-assets.adcolony.com
 127.0.0.1		adc3-launch.adcolony.com
+127.0.0.1		adcenter.dhgate.com
 127.0.0.1		adchoices-icon-staging.truste.com
 127.0.0.1		adclick.g.doubleclick.net
 127.0.0.1		adcolony.com
@@ -67,6 +70,7 @@
 127.0.0.1		ads.everesttech.net
 127.0.0.1		ads.freewheel.tv
 127.0.0.1		ads.hrhero.com
+127.0.0.1		ads.onlinevideoconverter.com
 127.0.0.1		ads.pictela.net
 127.0.0.1		ads.rentbits.com
 127.0.0.1		ads.revjet.com
@@ -141,6 +145,7 @@
 127.0.0.1		content.adsocialweb.com
 127.0.0.1		control-test-ec.adaptv.advertising.com
 127.0.0.1		conversions.adaptv.advertising.com
+127.0.0.1		crosspromotion.weplayer.cc
 127.0.0.1		csc.beap.bc.yahoo.com
 127.0.0.1		csync.smartadserver.com
 127.0.0.1		d.runadtag.com
@@ -179,6 +184,7 @@
 127.0.0.1		images.taboola.com
 127.0.0.1		imp2.ads.linkedin.com
 127.0.0.1		instaad.net
+127.0.0.1		intent.bingads.com
 127.0.0.1		ivid-cdn.adhigh.net
 127.0.0.1		ivid-f11-us-va.adhigh.net
 127.0.0.1		ivid-f16-us-va.adhigh.net
@@ -238,6 +244,7 @@
 127.0.0.1		sp.adbrn.com
 127.0.0.1		startribune.adperfect.com
 127.0.0.1		static.adtrolley.com
+127.0.0.1		static.adweek.com
 127.0.0.1		strib-advertising.s3.amazonaws.com
 127.0.0.1		taboola.com
 127.0.0.1		tags.adtrolley.com
@@ -273,6 +280,7 @@
 127.0.0.1		tracking.sv7.monarchads.com
 127.0.0.1		tracking.sv8.monarchads.com
 127.0.0.1		tracking.sv9.monarchads.com
+127.0.0.1		travelads.hlserve.com
 127.0.0.1		trc.taboola.com
 127.0.0.1		triplelift.pxl.ace.advertising.com
 127.0.0.1		triplelift.rtb.adx1.com
