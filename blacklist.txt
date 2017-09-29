@@ -1,14 +1,17 @@
 #
 # Created: 6-29-17
-# Updated: 9-26-17
+# Updated: 9-29-17
 # Welcov IT PiHole blacklist
 ##
 127.0.0.1		031kr-0lvw3.ads.tremorhub.com
 127.0.0.1		031kr-1h8ol.ads.tremorhub.com
 127.0.0.1		031kr-5vhnm.ads.tremorhub.com
+127.0.0.1		031kr-72z7z.ads.tremorhub.com
 127.0.0.1		031kr-fz9vs.ads.tremorhub.com
 127.0.0.1		031kr-gb0mp.ads.tremorhub.com
+127.0.0.1		031kr-pjzy5.ads.tremorhub.com
 127.0.0.1		031kr-rwlpf.ads.tremorhub.com
+127.0.0.1		031kr-sqfso.ads.tremorhub.com
 127.0.0.1		031kr-u1ypk.ads.tremorhub.com
 127.0.0.1		4735610.fls.doubleclick.net
 127.0.0.1		77hln.ads.tremorhub.com
@@ -78,14 +81,19 @@
 127.0.0.1		ads.usps.com
 127.0.0.1		ads.vertmarkets.com
 127.0.0.1		ads.yieldmo.com
+127.0.0.1		ads11.vertamedia.com
+127.0.0.1		ads12.vertamedia.com
+127.0.0.1		ads15.vertamedia.com
 127.0.0.1		ads30.adcolony.com
 127.0.0.1		ads37.ssp.babanetwork.net
+127.0.0.1		ads51.vertamedia.com
 127.0.0.1		adsdk.vrvm.com
 127.0.0.1		adserve.2adpro.com
 127.0.0.1		adserver.intentiq.com
 127.0.0.1		adserver.pandora.com
 127.0.0.1		adserver.xpanama.net
 127.0.0.1		adserverapi.psafe.com
+127.0.0.1		adservice.google.com
 127.0.0.1		adservice.tohsoft.com
 127.0.0.1		adswizz.com
 127.0.0.1		adt.pxl.ace.advertising.com
@@ -164,6 +172,7 @@
 127.0.0.1		deliveryengine.synchroscript.adswizz.com
 127.0.0.1		ebpig-vguje.ads.tremorhub.com
 127.0.0.1		edge.adcolony.top.comcast.net
+127.0.0.1		elitelmediaadvertising.com
 127.0.0.1		emailads.startribune.com
 127.0.0.1		events3.adcolony.com
 127.0.0.1		events3alt.adcolony.com
@@ -233,6 +242,7 @@
 127.0.0.1		rtb.adentifi.com
 127.0.0.1		rub.pxl.ace.advertising.com
 127.0.0.1		rv.grxads.com
+127.0.0.1		s.adzmath.com
 127.0.0.1		s3adbucket.247sports.com
 127.0.0.1		search.myway.com
 127.0.0.1		searchads.msn.net
@@ -302,13 +312,16 @@
 127.0.0.1		vox.pxl.ace.advertising.com
 127.0.0.1		wd.adcolony.com
 127.0.0.1		weeklyad.michaels.com
+127.0.0.1		weeklyad.staples.com
 127.0.0.1		wlfanduel.adsrv.eacdn.com
 127.0.0.1		ww2675.smartadserver.com
+127.0.0.1		www.adspleen.com
 127.0.0.1		www.freeadgo.com
 127.0.0.1		www.imgurads.com
 127.0.0.1		www.kuaygqohsbeg.com
 127.0.0.1		www.miamiheraldadvertising.com
 127.0.0.1		www.nbcudigitaladops.com
+127.0.0.1		www.postmediaadvertising.com
 127.0.0.1		www.yljrefexjymy.com
 127.0.0.1		y.one.impact-ad.jp
 127.0.0.1		yrtas.btrll.com
