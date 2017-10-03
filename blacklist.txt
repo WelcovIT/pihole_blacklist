@@ -1,6 +1,6 @@
 #
 # Created: 6-29-17
-# Updated: 9-29-17
+# Updated: 10-3-17
 # Welcov IT PiHole blacklist
 ##
 127.0.0.1		031kr-0lvw3.ads.tremorhub.com
@@ -49,6 +49,7 @@
 127.0.0.1		adclick.g.doubleclick.net
 127.0.0.1		adcolony.com
 127.0.0.1		adeventtracker.spotify.com
+127.0.0.1		adfrika.com
 127.0.0.1		adhigh.net
 127.0.0.1		adimages.startribune.com
 127.0.0.1		adinfo.aol.com
@@ -73,12 +74,14 @@
 127.0.0.1		ads.everesttech.net
 127.0.0.1		ads.freewheel.tv
 127.0.0.1		ads.hrhero.com
+127.0.0.1		ads.memevideoad.com
 127.0.0.1		ads.onlinevideoconverter.com
 127.0.0.1		ads.pictela.net
 127.0.0.1		ads.rentbits.com
 127.0.0.1		ads.revjet.com
 127.0.0.1		ads.tremorhub.com
 127.0.0.1		ads.usps.com
+127.0.0.1		ads.vb-api.com
 127.0.0.1		ads.vertmarkets.com
 127.0.0.1		ads.yieldmo.com
 127.0.0.1		ads11.vertamedia.com
@@ -99,6 +102,7 @@
 127.0.0.1		adt.pxl.ace.advertising.com
 127.0.0.1		adtech.nflximg.net
 127.0.0.1		adtheorent107077183660.s.moatpixel.com
+127.0.0.1		advert.telesurtv.net
 127.0.0.1		advertise.foxnews.com
 127.0.0.1		advertise.iheart.com
 127.0.0.1		advertisers.com.au
@@ -211,6 +215,7 @@
 127.0.0.1		match.adsby.bidtheatre.com
 127.0.0.1		mb.moatads.com
 127.0.0.1		media.adknit.com
+127.0.0.1		mf.adsymptotic.com
 127.0.0.1		miamiherald.adperfect.com
 127.0.0.1		moat.pxl.ace.advertising.com
 127.0.0.1		mobile.adsafeprotected.com
@@ -221,6 +226,7 @@
 127.0.0.1		nym1-ib.adnxs.com
 127.0.0.1		o.aolcdn.com
 127.0.0.1		ox.pxl.ace.advertising.com
+127.0.0.1		p.adwsys.com
 127.0.0.1		pics.pornmarathon.com
 127.0.0.1		pixel.adacado.com
 127.0.0.1		pixel.addoox.net
@@ -240,6 +246,7 @@
 127.0.0.1		rm4.adtilt.com
 127.0.0.1		rtb-px.content-ad.net
 127.0.0.1		rtb.adentifi.com
+127.0.0.1		rtb.mfadsrvr.com
 127.0.0.1		rub.pxl.ace.advertising.com
 127.0.0.1		rv.grxads.com
 127.0.0.1		s.adzmath.com
@@ -252,10 +259,12 @@
 127.0.0.1		serve.uberads.com
 127.0.0.1		shim.btrll.com
 127.0.0.1		sp.adbrn.com
+127.0.0.1		sp.ads.memevideoad.com
 127.0.0.1		startribune.adperfect.com
 127.0.0.1		static.adtrolley.com
 127.0.0.1		static.adweek.com
 127.0.0.1		strib-advertising.s3.amazonaws.com
+127.0.0.1		sync-tapi.admatrix.jp
 127.0.0.1		taboola.com
 127.0.0.1		tags.adtrolley.com
 127.0.0.1		tracking.sv1.monarchads.com
@@ -322,8 +331,10 @@
 127.0.0.1		www.miamiheraldadvertising.com
 127.0.0.1		www.nbcudigitaladops.com
 127.0.0.1		www.postmediaadvertising.com
+127.0.0.1		www.staradvertiser.com
 127.0.0.1		www.yljrefexjymy.com
 127.0.0.1		y.one.impact-ad.jp
+127.0.0.1		ylx-a-img.advertica-cdn.com
 127.0.0.1		yrtas.btrll.com
 127.0.0.1		yt.moatads.com
 127.0.0.1		yts.moatads.com
