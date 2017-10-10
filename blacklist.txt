@@ -1,6 +1,6 @@
 #
 # Created: 6-29-17
-# Updated: 10-3-17
+# Updated: 10-10-17
 # Welcov IT PiHole blacklist
 ##
 127.0.0.1		031kr-0lvw3.ads.tremorhub.com
@@ -33,6 +33,7 @@
 127.0.0.1		ad.apsalar.com
 127.0.0.1		ad.bidfluence.com
 127.0.0.1		ad.cc.webmd.com
+127.0.0.1		ad.crwdcntrl.com
 127.0.0.1		ad.flipboard.com
 127.0.0.1		ad.liveburst.com
 127.0.0.1		ad.mediabong.net
@@ -55,6 +56,7 @@
 127.0.0.1		adinfo.aol.com
 127.0.0.1		adlooxtracking.com
 127.0.0.1		admapper.cdk.com
+127.0.0.1		adops.consequencemedia.com
 127.0.0.1		adproxy.fyber.com
 127.0.0.1		adpushsdk.goforandroid.com
 127.0.0.1		ads-bidder-api.twitter.com
@@ -96,6 +98,8 @@
 127.0.0.1		adserver.pandora.com
 127.0.0.1		adserver.xpanama.net
 127.0.0.1		adserverapi.psafe.com
+127.0.0.1		adservers-users-1-1251423768.us-east-1.elb.amazonaws.com
+127.0.0.1		adservice.google.co.uk
 127.0.0.1		adservice.google.com
 127.0.0.1		adservice.tohsoft.com
 127.0.0.1		adswizz.com
@@ -138,6 +142,7 @@
 127.0.0.1		candycrushsoda.king.com
 127.0.0.1		casalemedia.com
 127.0.0.1		cdn-d.amazon-adsystem.com
+127.0.0.1		cdn.adagility.com
 127.0.0.1		cdn.adaptv.advertising.com
 127.0.0.1		cdn.adhigh.net
 127.0.0.1		cdn.adsafeprotected.com
@@ -148,6 +153,7 @@
 127.0.0.1		cdn.taboola.com
 127.0.0.1		cdn.taboolasyndication.com
 127.0.0.1		cdn1-creatives.adswizz.com
+127.0.0.1		cdn2.teads.tv
 127.0.0.1		cf.adxcel.com
 127.0.0.1		clearchannel.deliveryengine.adswizz.com
 127.0.0.1		clinkadtracking.com
@@ -187,11 +193,13 @@
 127.0.0.1		fc-eu.adsymptotic.com
 127.0.0.1		flurry.adserver.prod.g04.yahoodns.net
 127.0.0.1		fwapi.adsafeprotected.com
+127.0.0.1		gallery.adfrika.com
 127.0.0.1		geo.moatads.com
 127.0.0.1		gsn.chameleon.ad
 127.0.0.1		hmpads.advertserve.com
 127.0.0.1		html5.adsrvr.org
 127.0.0.1		hx.ads.placeiq.com
+127.0.0.1		ib.anycast.adnxs.com
 127.0.0.1		ibn.adnxs.com
 127.0.0.1		imageadswest.azurewebsites.net
 127.0.0.1		images.taboola.com
@@ -320,11 +328,13 @@
 127.0.0.1		videoads.iheart.com
 127.0.0.1		vox.pxl.ace.advertising.com
 127.0.0.1		wd.adcolony.com
+127.0.0.1		weeklyad.dickssportinggoods.com
 127.0.0.1		weeklyad.michaels.com
 127.0.0.1		weeklyad.staples.com
 127.0.0.1		wlfanduel.adsrv.eacdn.com
 127.0.0.1		ww2675.smartadserver.com
 127.0.0.1		www.adspleen.com
+127.0.0.1		www.elephant-ads.com
 127.0.0.1		www.freeadgo.com
 127.0.0.1		www.imgurads.com
 127.0.0.1		www.kuaygqohsbeg.com
